@@ -1,0 +1,17 @@
+name: community
+
+purpose: |
+  发起和组织OpenHydra社区线上和线下活动，通过布道和推广吸引潜在用户和贡献者。
+responsibilities:
+- 直接参与社区官方网站、文档维护。
+- 促进或者直接贡献内容创建（博客、小视频、公众号等）。
+- 发起和组织OpenHydra社区活动。
+- 通过活动获得使用者和贡献者的反馈，优化和迭代。
+- 促进社区和其他团队之间的沟通和反馈。
+
+members:
+- zhangjinnan
+- simonyangcj
+
+repos:
+- governance

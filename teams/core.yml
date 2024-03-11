@@ -1,0 +1,20 @@
+name: core
+
+purpose: |
+  设计OpenHydra核心概念, 通过RFC评审流程指导设计方向。
+responsibilities:
+- 建立OpenHydra社区治理模型。
+- 审查RFC过程来维护OpenHydra设计原则。
+- 阐明OpenHydra的设计原则。
+- 通过决议流程达成对RFC的共识。
+- 新团队申请设立评审和组建初期指导。
+- 与@community 团队合作收集RFC的反馈。
+
+members:
+- simonyangcj
+- zhangjinnan
+
+repos:
+- governance
+- open-hydra
+- open-hydra-ui
